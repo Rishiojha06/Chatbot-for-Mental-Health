@@ -1,6 +1,6 @@
 # Mental Health Chatbot
 
-![Chatbot Image](chatbot-image.png)
+![Chatbot Image](chatbot-image.jpeg)
 
 ## Introduction
 
